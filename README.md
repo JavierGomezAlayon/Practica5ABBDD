@@ -15,6 +15,8 @@ Para mejorar esto voy a intentar incluir las siguientes check que he visto realm
 - ammount no pueder 0 o negativo (al parecer ya hay registros de pagos por 0 euros, por lo que lo voy a dejar en que no puede ser negativo)
 - payment_date no puede ser después de hoy
 
+Para ver la implementación vaya al script que se encuentra al final de este documento, ejercicio 6
+
 ## Ejercicio 7
 A continuación explicaré que significa esta sentencia:
 ```sql
